@@ -16,4 +16,6 @@ This C program detects and counts numbers that reach a repeating cycle based on 
 - The program will generate an output file named `output{DIGITS}.txt`, where `{DIGITS}` corresponds to the value you set. For example, if `DIGITS` is set to `6`, the output file will be `output6.txt`.
 
 Make sure to compile the program with a C compiler before running it. The results will be saved in the specified output file.
+-----------------------------------------------------
+
 <img width="645" alt="kaprekar-example" src="https://github.com/user-attachments/assets/c1986f7e-d651-4ca5-ac7d-1af52e518ee0">
