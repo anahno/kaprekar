@@ -20,4 +20,4 @@ Make sure to compile the program with a C compiler before running it. The result
 
 <img width="645" alt="kaprekar-example" src="https://github.com/user-attachments/assets/c1986f7e-d651-4ca5-ac7d-1af52e518ee0">
 </br>
-<a href="https://behzadfarhadi.ir/2024/11/04/kaprekar-2/">Read more about Kaprekar Number, The Playful Mystery of Numbers in Mathematics</a>
+<a href="https://behzadfarhadi.ir/math/kaprekar/">Read more about Kaprekar Number, The Playful Mystery of Numbers in Mathematics</a>
